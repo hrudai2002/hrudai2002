@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hrudai2002&label=Profile%20views&color=0e75b6&style=flat" alt="hrudai2002" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/hrudai2002?tab=repositories](https://github.com/hrudai2002?tab=repositories)
+- 👨‍💻 All of my projects are available at [here](https://github.com/hrudai2002?tab=repositories)
 
 - 📫 How to reach me **hrudai2002@gmail.com**
 
-- 📄 Know about me [https://www.linkedin.com/in/nainala-sree-sayi-hrudai-7484661a7/](https://www.linkedin.com/in/nainala-sree-sayi-hrudai-7484661a7/)
+- 📄 Know about me [here](https://www.linkedin.com/in/nainala-sree-sayi-hrudai-7484661a7/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
