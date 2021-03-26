@@ -17,7 +17,7 @@
 <a href="https://www.codechef.com/users/sreesayi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sreesayi" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/19l31a0551" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="19l31a0551" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/sree_sayi_hrudai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="sree_sayi_hrudai" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/sree_sayi_hrudai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="sree_sayi_hrudai" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@sree_sayi_hrudai?share=True" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="sree_sayi_hrudai" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/sayihrudai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="sayihrudai" height="30" width="40" /></a>
 </p>
 
