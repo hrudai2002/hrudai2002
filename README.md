@@ -14,10 +14,15 @@
 
 [![twitter Card](https://img.icons8.com/color/28/000000/twitter.png)](https://twitter.com/hrudai2002)
 [![linkedin Card](https://img.icons8.com/color/28/000000/linkedin.png)](https://www.linkedin.com/in/nainala-sree-sayi-hrudai-7484661a7/)
-[![telegram Card](https://img.icons8.com/color/28/000000/telegram-app.png)](https://t.me/error_occurred)
+
 [![instagram Card](https://img.icons8.com/fluent/28/000000/instagram-new.png)](https://www.instagram.com/sayi_hrudai.11/)
-[![HackerRank Card](https://github.com/AsishRaju/AsishRaju/raw/master/gifs/hackerrank..png)](https://www.hackerrank.com/19L31A05518) <br>
+[![HackerRank Card](https://github.com/AsishRaju/AsishRaju/raw/master/gifs/hackerrank..png)](https://www.hackerrank.com/19L31A05518) 
+<a href="https://www.codechef.com/users/sreesayi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sreesayi" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/sree_sayi_hrudai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="sree_sayi_hrudai" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/sayihrudai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="sayihrudai" height="30" width="40" /></a>
+<br>
 [![Gmail Badge](https://img.shields.io/badge/-hrudai2002@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hrudai2002@gmail.com)](mailto:hrudai2002@gmail.com)
+
 
 ### inCoding 👨🏻‍💻
 
