@@ -21,11 +21,11 @@
 
 ### inCoding 👨🏻‍💻
 
-<img src="https://img.icons8.com/color/28/000000/windows-10.png"/>
-<img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/c++.png"/>
-<img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/c.png"/>
-<img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/python.png"/>
-<img src="https://img.icons8.com/color/28/000000/java-coffee-cup-logo.png"/>
-<img src="https://img.icons8.com/color/28/000000/git.png"/>
-<img src="https://img.icons8.com/fluent/28/000000/chrome.png"/>
+<img src="https://img.icons8.com/color/28/000000/windows-10.png"/> <img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/c++.png"/>
+<img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/c.png"/><img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/python.png"/>
+<img src="https://img.icons8.com/color/28/000000/java-coffee-cup-logo.png"/><img src="https://img.icons8.com/color/28/000000/git.png"/><img src="https://img.icons8.com/fluent/28/000000/chrome.png"/>
+
+
+
+
 
