@@ -1,4 +1,4 @@
-# Hey There , I am hrudai! <img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/hi.gif" width="40px"></h2>
+# <h1 align = "center">Hey There , I am Hrudai! <h1> <img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/hi.gif" width="40px"></h2>
 #             <h3 align = "center">    My Goal is to improve myself continuously 🏃‍♂️<h3>
  <img align="right" alt="GIF" src="https://media.giphy.com/media/l1J9tiMFKV8R31J9m/giphy.gif?raw=true" width="350" height="320" />
 
