@@ -28,7 +28,7 @@
 
 <img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/c++.png"/><img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/c.png"/><img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/python.png"/><img src="https://img.icons8.com/color/28/000000/java-coffee-cup-logo.png"/><img src="https://img.icons8.com/color/28/000000/git.png"/><img src="https://img.icons8.com/fluent/28/000000/chrome.png"/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hrudai2002)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
