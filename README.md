@@ -1,5 +1,5 @@
 # Hey There , I am hrudai! <img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/hi.gif" width="40px"></h2>
-#             <h3 align = "center">    My Goal is to improve myself continuously <h3>
+#             <h3 align = "center">    My Goal is to improve myself continuously 🏃‍♂️<h3>
  <img align="right" alt="GIF" src="https://media.giphy.com/media/l1J9tiMFKV8R31J9m/giphy.gif?raw=true" width="350" height="320" />
 
 ##      <h3 align = "center">I'm a Computer Science Engineer, Developer, Comepetitive Programmer!! </h3>
