@@ -32,5 +32,7 @@
 
 I'm very much passionate about my carrer and interested in learning all the new technologies 💻.
 
+![Hrudai github stats](https://github-readme-stats.vercel.app/api?username=hrudai2002&show_icons=true&theme=radical)
+
 
 
