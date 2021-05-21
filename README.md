@@ -5,6 +5,7 @@
 ##      <h3 align = "center">I'm a Computer Science Engineer, Developer, Comepetitive Programmer!! </h3>
 
 - ✍ You can find my projects <a href = "https://github.com/hrudai2002?tab=repositories" > here </a>
+ - 📄 You can find my blog <a href = "https://hrudaiblog.blogspot.com/" target = "_blank">here </a>
 - 🔭 I’m currently Persuing my B-tech.
 - 🌱 I’m currently learning Javascrpit and Dart
 - 👯 I’m looking to collaborate on open source
