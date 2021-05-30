@@ -1,4 +1,4 @@
-# <h1 align = "center">Hey There , I am Hrudai! <img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/hi.gif" width="40px"><h4 align = "center">HACKEREARTH VIIT CHAPTER LEAD | COMPETITVE PROGRAMMER | Frontend Developer </h4><h1> 
+# <h1 align = "center">Hey There , I am Hrudai! <img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/hi.gif" width="40px"><h4 align = "center">HACKEREARTH VIIT CHAPTER LEAD | COMPETITVE PROGRAMMER | FRONTEND DEVELOPER </h4><h1> 
  
 
 
