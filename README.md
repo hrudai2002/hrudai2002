@@ -3,7 +3,10 @@
 
 
   <br>
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/l1J9tiMFKV8R31J9m/giphy.gif?raw=true" width="350" height="320" />
+<!--   <img align="right" alt="GIF" src="https://media.giphy.com/media/l1J9tiMFKV8R31J9m/giphy.gif?raw=true" width="350" height="320" /> -->
+ <img align="right" alt="GIF" src="https://media.giphy.com/media/LEe5yo2E9Fi3FmuEPK/source.gif" width="350" height="380" />
+ 
+ 
   <br>
  
 - ✍ You can find my projects <a href = "https://github.com/hrudai2002?tab=repositories" > here </a>
