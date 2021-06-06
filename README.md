@@ -19,9 +19,6 @@
 - 💬 Ask me about ... Anything
 - ⚡ Fun fact: There is nothing fun about me.
 
-
-
-
 ![Hrudai github stats](https://github-readme-stats.vercel.app/api?username=hrudai2002&show_icons=true&theme=radical)
  
  
