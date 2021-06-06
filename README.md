@@ -7,7 +7,7 @@
  <img align="right" alt="GIF" src="https://github.com/hrudai2002/hrudai2002/blob/main/dev.gif" width="350" height="380" />
  
  
-  <br>
+
  
 
  
@@ -19,7 +19,7 @@
 - 💬 Ask me about ... Anything
 - ⚡ Fun fact: There is nothing fun about me.
 
-![Hrudai github stats](https://github-readme-stats.vercel.app/api?username=hrudai2002&show_icons=true&theme=radical)
+ ![Hrudai github stats](https://github-readme-stats.vercel.app/api?username=hrudai2002&show_icons=true&theme=radical)
  
  
 
