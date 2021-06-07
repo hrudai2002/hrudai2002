@@ -23,7 +23,7 @@
  
  
 ### Languages and Tools
-<img src = "https://github.com/hrudai2002/hrudai2002/blob/main/c.svg" width = "40" height = "30" >  <img src="https://img.icons8.com/ios-filled/50/000000/c-plus-plus-logo.png" width = "30" height = "32"><img src = "https://github.com/hrudai2002/hrudai2002/blob/main/java.svg" width = "40" height = "30" > <img src = "https://github.com/hrudai2002/hrudai2002/blob/main/python.svg"  width = "40" height = "30">  <img src="https://img.icons8.com/color/48/000000/git.png"  width = "40" height = "35"> <img src = "https://github.com/hrudai2002/hrudai2002/blob/main/html-5.svg"  width = "40" height = "30">  <img src = "https://github.com/hrudai2002/hrudai2002/blob/main/css-3.svg"  width = "40" height = "30">  <img src = "https://github.com/hrudai2002/hrudai2002/blob/main/sass.svg"  width = "40" height = "30">
+<img src = "https://github.com/hrudai2002/hrudai2002/blob/main/c.svg" width = "40" height = "30" >  <img src="https://img.icons8.com/ios-filled/50/000000/c-plus-plus-logo.png" width = "30" height = "32"><img src = "https://github.com/hrudai2002/hrudai2002/blob/main/java.svg" width = "40" height = "30" > <img src = "https://github.com/hrudai2002/hrudai2002/blob/main/python.svg"  width = "40" height = "30">  <img src="https://img.icons8.com/color/48/000000/git.png"  width = "40" height = "35"> <img src = "https://github.com/hrudai2002/hrudai2002/blob/main/html-5.svg"  width = "40" height = "30">  <img src = "https://github.com/hrudai2002/hrudai2002/blob/main/css-3.svg"  width = "40" height = "30">  <img src="https://img.icons8.com/color/48/000000/sass-avatar.png" width = "30" height = "32">
 
 
 ![Hrudai github stats](https://github-readme-stats.vercel.app/api?username=hrudai2002&show_icons=true&theme=radical)
