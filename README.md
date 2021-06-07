@@ -2,7 +2,7 @@
 
 ## Hey there , I am Hrudai <img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/hi.gif" width="40px">     
 
-<img align="right" alt="GIF" src="https://github.com/hrudai2002/hrudai2002/blob/main/dev.gif" width="380" height="400" />
+<img align="center" alt="GIF" src="https://github.com/hrudai2002/hrudai2002/blob/main/dev.gif" width="380" height="400" />
 
 #### I'm a Computer Science Student, Developer and love to code.
 
