@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning web development.
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
-- 📫 reach me: hrudai2002@gmail.com 
+- 📫 reach me hrudai2002@gmail.com 
 - 😄 Pronouns: He/His/Him
 
  
