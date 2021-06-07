@@ -21,8 +21,7 @@
   <a href="https://instagram.com/sayi_hrudai.11" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sayi_hrudai.11"   height="30" width="40" /></a>
   <a href="https://twitter.com/hrudai2002" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="hrudai2002" height="30"    width="40" /></a>
  
- ## Languages and Skills
- <div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+
 
 ![Hrudai github stats](https://github-readme-stats.vercel.app/api?username=hrudai2002&show_icons=true&theme=radical)
  
