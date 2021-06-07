@@ -17,7 +17,7 @@
  
   
  ## Let's Talk
-  <a href="https://linkedin.com/in/nainala sree sayi hrudai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"      alt="nainala sree sayi hrudai" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/sree-sayi-hrudai-7484661a7/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"      alt="nainala sree sayi hrudai" height="30" width="40" /></a>
   <a href="https://instagram.com/sayi_hrudai.11" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sayi_hrudai.11"   height="30" width="40" /></a>
   <a href="https://twitter.com/hrudai2002" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="hrudai2002" height="30"    width="40" /></a>
 
